@@ -2,4 +2,4 @@
 
 ## Create an Azure Covid-19 Chatbot
 
-Thank you for visiting. This site has been moved to [aka.ms/covidbot](aka.ms/covidbot).
+Thank you for visiting. This site has been moved to [aka.ms/covidbot](aka.ms/covidbot).  
