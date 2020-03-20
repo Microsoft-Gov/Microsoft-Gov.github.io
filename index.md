@@ -14,7 +14,7 @@ Here are the bot options and links to the code and instructions. These are the *
 
 | Resource name | Description                                                                  | Link to resource | 
 | :-------------| :--------------------------------------------------------------------------- | :--------------: |
-| Simple QnA Bot| Follow step-by-step guide to deploy. No more than 2 hours                    | [Download Instructions](https://github.com/Microsoft-Gov/Microsoft-Gov.github.io/blob/master/docs/Covid%20Bot%20Instructions.docx?raw=true) |
+| Simple QnA Bot| Follow step-by-step guide to deploy. Average time to build a bot is less than 2 hours. | [Download Instructions](https://github.com/Microsoft-Gov/Microsoft-Gov.github.io/blob/master/docs/Covid%20Bot%20Instructions.docx?raw=true) |
 | Video         | Step-by-step walk-through for non-developers to build a no-code Q&A bot.                        | [Link](https://youtu.be/1c-3sjNNRhw){:target="_blank"} |
 | Analytics     | Get analytics on your knowledge base                                         | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/get-analytics-knowledge-base){:target="_blank"} |
 | Power BI      | Power BI Dashboard to visualize analytics                                 | [Download](https://github.com/Microsoft-Gov/Microsoft-Gov.github.io/blob/master/docs/COVID19%20Bot%20Dashboard.pbix?raw=true){:target="_blank"}
