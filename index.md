@@ -30,3 +30,11 @@ The QnA Maker based bot utilizes several Azure services which each have their ow
 * Azure Bot Service
 * Azure Cognitive Search
 * Azure Application Insights
+
+### Other bot options
+
+* [Health Bot Service](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/quick-start-setting-up-your-covid-19-health-bot/ba-p/1230537#){:target="_blank"}
+
+What is the difference between the QnA Maker bot detailed on this site and the Health Bot Service?
+* The QnA Maker Bot is designed to be quickly deployed with no programming knowledge. This bot helps you provide quick responses to frequently asked citizen questions.   
+* The Health Bot Service is an AI-powered, extensible, secure and compliant healthcare experience. Microsoft now has a specific template pre-built for COVID-19. It takes inbound requests, asks about the patient’s symptoms, and assists in getting people access to trusted and relevant healthcare services and information based on the CDC recommendation. 
